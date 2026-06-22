@@ -9,6 +9,7 @@ Passionate Software Developer with experience in building modern, scalable, and 
 🌐 Portfolio: https://my-portfolio-chi-weld-79.vercel.app/
 
 🔗 LinkedIn: https://www.linkedin.com/in/prateek-rajbhar-820010248
+
 ---
 
 ## 🌐 Socials:
